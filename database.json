@@ -6,8 +6,8 @@
     "agama": "kristen",
     "point": 0,
     "saldo": {
-      "amount": 0,
-      "transaksi": 2,
+      "amount": 4,
+      "transaksi": 3,
       "riwayat": [
         {
           "tanggal": "23/6/2025",
@@ -18,6 +18,11 @@
           "tanggal": "23/6/2025",
           "keterangan": "Pemotongan saldo oleh owner",
           "nominal": -1000
+        },
+        {
+          "tanggal": "23/6/2025",
+          "keterangan": "Deposit Saldo Sebesar 254",
+          "nominal": 4
         }
       ]
     }
