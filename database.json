@@ -1,0 +1,109 @@
+{
+  "6285871923546-HRTOYBRX-O8HT": {
+    "nomor": "6285871923546@s.whatsapp.net",
+    "saldo": {
+      "amount": 251,
+      "transaksi": 1,
+      "riwayat": [
+        {
+          "tanggal": "18/6/2025",
+          "keterangan": "Deposit Saldo Sebesar 251",
+          "nominal": 251
+        }
+      ]
+    },
+    "panel": {
+      "panel": [],
+      "total": 0
+    },
+    "bank": 0,
+    "saham": "tidak ada",
+    "status": "free",
+    "point": 0,
+    "banned": false,
+    "unbanAt": null,
+    "lastCommand": 1750556047315
+  },
+  "6283128411019-C4H6LDXV-8QDF": {
+    "nomor": "6283128411019@s.whatsapp.net",
+    "saldo": {
+      "amount": 0,
+      "transaksi": 0,
+      "riwayat": []
+    },
+    "panel": {
+      "panel": [],
+      "total": 0
+    },
+    "bank": 0,
+    "saham": "tidak ada",
+    "status": "free",
+    "point": 0,
+    "banned": false,
+    "unbanAt": null,
+    "lastCommand": 1750578462902
+  },
+  "6289635707538-JLRX4Y4P-FIFJ": {
+    "nomor": "6289635707538@s.whatsapp.net",
+    "saldo": {
+      "amount": 0,
+      "transaksi": 0,
+      "riwayat": []
+    },
+    "panel": {
+      "panel": [],
+      "total": 0
+    },
+    "bank": 0,
+    "saham": "tidak ada",
+    "status": "free",
+    "point": 0,
+    "banned": false,
+    "unbanAt": null,
+    "lastCommand": 0
+  },
+  "6285693223628-U8HLOUH3-M3YO": {
+    "nomor": "6285693223628@s.whatsapp.net",
+    "saldo": {
+      "amount": 350,
+      "transaksi": 1,
+      "riwayat": [
+        {
+          "tanggal": "22/6/2025",
+          "keterangan": "Deposit Saldo Sebesar 350",
+          "nominal": 350
+        }
+      ]
+    },
+    "panel": {
+      "panel": [],
+      "total": 0
+    },
+    "bank": 0,
+    "saham": "tidak ada",
+    "status": "free",
+    "point": 0,
+    "banned": false,
+    "unbanAt": null,
+    "lastCommand": 1750586625209
+  },
+  "628812857601-GQFZZ1PZ-JZYS": {
+    "nomor": "628812857601@s.whatsapp.net",
+    "saldo": {
+      "amount": 0,
+      "transaksi": 0,
+      "riwayat": []
+    },
+    "panel": {
+      "panel": [],
+      "total": 0
+    },
+    "bank": 0,
+    "saham": "tidak ada",
+    "status": "free",
+    "point": 0,
+    "banned": false,
+    "unbanAt": null,
+    "lastCommand": 1750590892318
+  }
+  }
