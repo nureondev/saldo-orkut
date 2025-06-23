@@ -6,8 +6,8 @@
     "agama": "kristen",
     "point": 0,
     "saldo": {
-      "amount": 258,
-      "transaksi": 4,
+      "amount": 509,
+      "transaksi": 5,
       "riwayat": [
         {
           "tanggal": "23/6/2025",
@@ -28,6 +28,11 @@
           "tanggal": "23/6/2025",
           "keterangan": "Deposit Saldo Sebesar Rp. 254",
           "nominal": 254
+        },
+        {
+          "tanggal": "23/6/2025",
+          "keterangan": "Deposit Saldo Sebesar Rp. 251",
+          "nominal": 251
         }
       ]
     },
@@ -35,24 +40,27 @@
     "saweria": {
       "msg": {
         "key": {
-          "remoteJid": "6285871923546@s.whatsapp.net",
+          "remoteJid": "6289635707538@s.whatsapp.net",
           "fromMe": true,
-          "id": "3EB08FBFF9C32924458EE3"
+          "id": "3EB08E7780DEC133417B20"
         },
         "message": {
           "viewOnceMessage": {
             "message": {
               "buttonsMessage": {
                 "imageMessage": {
-                  "url": "https://mmg.whatsapp.net/o1/v/t24/f2/m269/AQMtUDUBwaVV32-nYe1Vb3zkvMECb9c3vVZRFpOadBk17oyhdvhb_CWhI6N9Jl-VnCxv0ShERNmjhuIQZqjHRFnH6cP-f8gNNwSCHwSnpA?ccb=9-4&oh=01_Q5Aa1wE4NuQquV8ZzuGyJq-q2yTY9s6WjLb0hwRJhLCGOodEVQ&oe=6880B6EA&_nc_sid=e6ed6c&mms3=true",
+                  "url": "https://mmg.whatsapp.net/o1/v/t24/f2/m234/AQMaooq4c4uXo4gru4aDoo4lgYA6NQkaB09K9GxrTueFO4yPBf26W5ejz5mH3iOj2Tr2xbEc4LWbK0K7zpj0kar4mhL1Yk-odDW5tyrQ0g?ccb=9-4&oh=01_Q5Aa1wFQwPy6bOiS7LbBFEUgyA8T7YbimnsVTiDBCSOeEt_Tuw&oe=6880C55D&_nc_sid=e6ed6c&mms3=true",
                   "mimetype": "image/jpeg",
-                  "caption": "\n🌟 *YEYY, QRIS Nya Udah Jadi Nihh!* 🌟\n━━━━━━━━━━━━━━━━━━━━━━\n⌛ *Waktu Selesai QRIS:* 10 Menit\n💰 *Total Yang Di Dapat:* 254\n💸 *Biaya Admin QRIS:* GRATIS\n🆔 *ID Pembayaran Deposit:* DEPOSIT-qW4aEVlJ\n━━━━━━━━━━━━━━━━━━━━━━\n📜 *Tutorial Dan Langkah - Langkah:*\n1️⃣ Transfers saldo ke QRIS yang bot kirim.\n2️⃣ Tunggu 5–10 detik setelah transfer.\n3️⃣ Bot akan otomatis memproses saldo kamu.\n📌 Jika tidak ada respon, gunakan .report",
-                  "fileSha256": "jq1o6zduipROXY67V0BbOxm+bw1GGYG9xnWcbJL26XU=",
-                  "fileLength": "3201",
-                  "mediaKey": "JxnYg1EQD+Y2rQu3j1gvDV5MbV7+PIaSQn59BfGvgA4=",
-                  "fileEncSha256": "JZYBlr3T/CK61+6d17DyshOYQstesOI94RMFHg8pm2w=",
-                  "directPath": "/o1/v/t24/f2/m269/AQMtUDUBwaVV32-nYe1Vb3zkvMECb9c3vVZRFpOadBk17oyhdvhb_CWhI6N9Jl-VnCxv0ShERNmjhuIQZqjHRFnH6cP-f8gNNwSCHwSnpA?ccb=9-4&oh=01_Q5Aa1wE4NuQquV8ZzuGyJq-q2yTY9s6WjLb0hwRJhLCGOodEVQ&oe=6880B6EA&_nc_sid=e6ed6c",
-                  "mediaKeyTimestamp": "1750685720",
+                  "caption": "\n🌟 *YEYY, QRIS Nya Udah Jadi Nihh!* 🌟\n━━━━━━━━━━━━━━━━━━━━━━\n⌛ *Waktu Selesai QRIS:* 10 Menit\n💰 *Total Yang Di Dapat:* 251\n💸 *Biaya Admin QRIS:* GRATIS\n🆔 *ID Pembayaran Deposit:* DEPOSIT-RBSTORE11\n━━━━━━━━━━━━━━━━━━━━━━\n📜 *Tutorial Dan Langkah - Langkah:*\n1️⃣ Transfers saldo ke QRIS yang bot kirim.\n2️⃣ Tunggu 5–10 detik setelah transfer.\n3️⃣ Bot akan otomatis memproses saldo kamu.\n📌 Jika tidak ada respon, gunakan .report",
+                  "fileSha256": "cbqIUH0rc6m5AkulPBtiHnjpWKCThcMTRDxZUsYxU+Q=",
+                  "fileLength": "3282",
+                  "height": 228,
+                  "width": 228,
+                  "mediaKey": "5sih8jtpedWA6mID+uL0AJvBQRbbQMkTIuUSd7H5N5M=",
+                  "fileEncSha256": "4hpj88uazwJJIAzQSElKHJhbQM9A9b4KQozu1Ug4BJs=",
+                  "directPath": "/o1/v/t24/f2/m234/AQMaooq4c4uXo4gru4aDoo4lgYA6NQkaB09K9GxrTueFO4yPBf26W5ejz5mH3iOj2Tr2xbEc4LWbK0K7zpj0kar4mhL1Yk-odDW5tyrQ0g?ccb=9-4&oh=01_Q5Aa1wFQwPy6bOiS7LbBFEUgyA8T7YbimnsVTiDBCSOeEt_Tuw&oe=6880C55D&_nc_sid=e6ed6c",
+                  "mediaKeyTimestamp": "1750686908",
+                  "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2MBERISGBUYLxoaL2NCOEJjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY//AABEIACAAIAMBEQACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AOj8ReIo9DaFXTJfDMSrH5d6hsYGCcFu4wcdc0AU08S3z6Ldap9jjWJY2KLkZjYBdu7LAsGDbhgKQB0ORQBHaeJr++tGvrYWYs7eUxzST5j3cDbtJbAye55G4DDYywBc8P6/PqdwUkhMlu4zDdR28kavwMggggYO4Z3dR0oAz/Fq2n9sQtqG1rJoMTqrkMcb2TOWAByMLxk5fJAFAFSWWy+yxXJje7uJZNwuIo1SBZCiGRgxK4OULZBVgVOSvJIBBHfNDpM1nYXNjHYgSNJuZpMR+ZtKAgD5ct1LFyrhlAJC0AX9Dt2HiOOSOe0BMkzyQWjktGgVVVJNzKQAcYXZ8pHGAeAC54msrbVNRWyuTPCpt95lgO7eQSQrKMkkBW2g9dz45HIBha8qXFvE8+l/PuSGOExkuGUsTCGRgFUAgDC5cOuORuABLpNqGsdJVHlhMJV4J/JYHcxJ2knb8v7wg8gPtXbkkqoBe8M6dFFqgvDZvZTTsX+zFVCqBGpLKDkhd0jDg5zgYA3AAGl4g0a5vryGeDZLETELi3k27ZAkgI6qcDDSZ554GD0oAyLbw1qf2O4jWS4jknikjdriYESZwQX2s38RkYY/vEMSBhwAi0HVILaC0KXd19nmZYpJZkCIuNokUbsoQMbeG2ncducUAXdH0vVbbXZbi6877NJPI6oJxtiLBiRtzyhLegYlQSBQB//Z",
                   "contextInfo": {
                     "mentionedJid": [
                       "6285693223628@s.whatsapp.net"
@@ -60,8 +68,8 @@
                   },
                   "viewOnce": true
                 },
-                "contentText": "\n🌟 *YEYY, QRIS Nya Udah Jadi Nihh!* 🌟\n━━━━━━━━━━━━━━━━━━━━━━\n⌛ *Waktu Selesai QRIS:* 10 Menit\n💰 *Total Yang Di Dapat:* 254\n💸 *Biaya Admin QRIS:* GRATIS\n🆔 *ID Pembayaran Deposit:* DEPOSIT-qW4aEVlJ\n━━━━━━━━━━━━━━━━━━━━━━\n📜 *Tutorial Dan Langkah - Langkah:*\n1️⃣ Transfers saldo ke QRIS yang bot kirim.\n2️⃣ Tunggu 5–10 detik setelah transfer.\n3️⃣ Bot akan otomatis memproses saldo kamu.\n📌 Jika tidak ada respon, gunakan .report",
-                "footerText": "© 2025 Lekza Botz",
+                "contentText": "\n🌟 *YEYY, QRIS Nya Udah Jadi Nihh!* 🌟\n━━━━━━━━━━━━━━━━━━━━━━\n⌛ *Waktu Selesai QRIS:* 10 Menit\n💰 *Total Yang Di Dapat:* 251\n💸 *Biaya Admin QRIS:* GRATIS\n🆔 *ID Pembayaran Deposit:* DEPOSIT-RBSTORE11\n━━━━━━━━━━━━━━━━━━━━━━\n📜 *Tutorial Dan Langkah - Langkah:*\n1️⃣ Transfers saldo ke QRIS yang bot kirim.\n2️⃣ Tunggu 5–10 detik setelah transfer.\n3️⃣ Bot akan otomatis memproses saldo kamu.\n📌 Jika tidak ada respon, gunakan .report",
+                "footerText": "© 2025 RB Botz",
                 "contextInfo": {
                   "mentionedJid": [
                     "6285693223628@s.whatsapp.net"
@@ -81,24 +89,12 @@
             }
           }
         },
-        "messageTimestamp": "1750685720",
+        "messageTimestamp": "1750686908",
         "status": "DELIVERY_ACK"
       },
       "chat": "6285693223628@s.whatsapp.net",
-      "idDeposit": "mfw6l0g7",
-      "amount": "4"
-    }
-  },
-  "6289635707538@s.whatsapp.net": {
-    "nomor": "6289635707538@s.whatsapp.net",
-    "nama": "p",
-    "umur": 0,
-    "agama": "p",
-    "point": 0,
-    "saldo": {
-      "amount": 0,
-      "transaksi": 0,
-      "riwayat": []
+      "idDeposit": "buu3z32f",
+      "amount": "1"
     }
   }
 }
