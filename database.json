@@ -88,5 +88,17 @@
       "idDeposit": "mfw6l0g7",
       "amount": "4"
     }
+  },
+  "6289635707538@s.whatsapp.net": {
+    "nomor": "6289635707538@s.whatsapp.net",
+    "nama": "p",
+    "umur": 0,
+    "agama": "p",
+    "point": 0,
+    "saldo": {
+      "amount": 0,
+      "transaksi": 0,
+      "riwayat": []
+    }
   }
 }
