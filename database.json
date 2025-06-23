@@ -108,5 +108,17 @@
       "transaksi": 0,
       "riwayat": []
     }
+  },
+  "6283128411019@s.whatsapp.net": {
+    "nomor": "6283128411019@s.whatsapp.net",
+    "nama": "ytta",
+    "umur": 10,
+    "agama": "ateis",
+    "point": 0,
+    "saldo": {
+      "amount": 0,
+      "transaksi": 0,
+      "riwayat": []
+    }
   }
 }
