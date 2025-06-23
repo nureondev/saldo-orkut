@@ -96,5 +96,17 @@
       "idDeposit": "buu3z32f",
       "amount": "1"
     }
+  },
+  "6289635707538@s.whatsapp.net": {
+    "nomor": "6289635707538@s.whatsapp.net",
+    "nama": "register p",
+    "umur": 1,
+    "agama": "p",
+    "point": 0,
+    "saldo": {
+      "amount": 0,
+      "transaksi": 0,
+      "riwayat": []
+    }
   }
 }
