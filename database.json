@@ -6,9 +6,15 @@
     "agama": "kristen",
     "gender": "cowok",
     "saldo": {
-      "amount": 0,
-      "transaksi": 0,
-      "riwayat": []
+      "amount": 10000,
+      "transaksi": 1,
+      "riwayat": [
+        {
+          "tanggal": "23/6/2025",
+          "keterangan": "Menambahkan saldo sebesar 10000",
+          "nominal": 10000
+        }
+      ]
     },
     "panel": {
       "panel": [],
