@@ -6,13 +6,18 @@
     "agama": "kristen",
     "gender": "cowok",
     "saldo": {
-      "amount": 10000,
-      "transaksi": 1,
+      "amount": 10254,
+      "transaksi": 2,
       "riwayat": [
         {
           "tanggal": "23/6/2025",
           "keterangan": "Menambahkan saldo sebesar 10000",
           "nominal": 10000
+        },
+        {
+          "tanggal": "23/6/2025",
+          "keterangan": "Deposit Saldo Sebesar 254",
+          "nominal": 254
         }
       ]
     },
