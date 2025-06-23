@@ -104,9 +104,75 @@
     "agama": "p",
     "point": 0,
     "saldo": {
-      "amount": 0,
-      "transaksi": 0,
-      "riwayat": []
+      "amount": 251,
+      "transaksi": 1,
+      "riwayat": [
+        {
+          "tanggal": "23/6/2025",
+          "keterangan": "Deposit Saldo Sebesar Rp. 251",
+          "nominal": 251
+        }
+      ]
+    },
+    "status_deposit": false,
+    "saweria": {
+      "msg": {
+        "key": {
+          "remoteJid": "6289635707538@s.whatsapp.net",
+          "fromMe": true,
+          "id": "3EB053523D19BC5870A638"
+        },
+        "message": {
+          "viewOnceMessage": {
+            "message": {
+              "buttonsMessage": {
+                "imageMessage": {
+                  "url": "https://mmg.whatsapp.net/o1/v/t24/f2/m232/AQMFpuH91uDyebZ4ByImtifvwWJO1f-6Yiq1FqmvlLOqQFbdmVIjJ27OLz77fvQopf8Ri87UiDWb8ObPuPOr-yxBzrM8pWaQrzBRuYsjKw?ccb=9-4&oh=01_Q5Aa1wEe7jdfuZgY7rJtlJLQjufhixhzFw9UqAtvErTNehoU8Q&oe=6880FC66&_nc_sid=e6ed6c&mms3=true",
+                  "mimetype": "image/jpeg",
+                  "caption": "\n🌟 *YEYY, QRIS Nya Udah Jadi Nihh!* 🌟\n━━━━━━━━━━━━━━━━━━━━━━\n⌛ *Waktu Selesai QRIS:* 10 Menit\n💰 *Total Yang Di Dapat:* 251\n💸 *Biaya Admin QRIS:* GRATIS\n🆔 *ID Pembayaran Deposit:* DEPOSIT-RBSTORE11\n━━━━━━━━━━━━━━━━━━━━━━\n📜 *Tutorial Dan Langkah - Langkah:*\n1️⃣ Transfers saldo ke QRIS yang bot kirim.\n2️⃣ Tunggu 5–10 detik setelah transfer.\n3️⃣ Bot akan otomatis memproses saldo kamu.\n📌 Jika tidak ada respon, gunakan .report",
+                  "fileSha256": "cbqIUH0rc6m5AkulPBtiHnjpWKCThcMTRDxZUsYxU+Q=",
+                  "fileLength": "3282",
+                  "height": 228,
+                  "width": 228,
+                  "mediaKey": "8yydKrCyFswqH4v7MWrX/CMovyHnSamuAaPyvAmZET4=",
+                  "fileEncSha256": "gdwE7vBHtSZ65+AIOPvGvS365/f7ERZdF+Iv0K0Z44o=",
+                  "directPath": "/o1/v/t24/f2/m232/AQMFpuH91uDyebZ4ByImtifvwWJO1f-6Yiq1FqmvlLOqQFbdmVIjJ27OLz77fvQopf8Ri87UiDWb8ObPuPOr-yxBzrM8pWaQrzBRuYsjKw?ccb=9-4&oh=01_Q5Aa1wEe7jdfuZgY7rJtlJLQjufhixhzFw9UqAtvErTNehoU8Q&oe=6880FC66&_nc_sid=e6ed6c",
+                  "mediaKeyTimestamp": "1750702741",
+                  "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2MBERISGBUYLxoaL2NCOEJjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY//AABEIACAAIAMBEQACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AOj8ReIo9DaFXTJfDMSrH5d6hsYGCcFu4wcdc0AU08S3z6Ldap9jjWJY2KLkZjYBdu7LAsGDbhgKQB0ORQBHaeJr++tGvrYWYs7eUxzST5j3cDbtJbAye55G4DDYywBc8P6/PqdwUkhMlu4zDdR28kavwMggggYO4Z3dR0oAz/Fq2n9sQtqG1rJoMTqrkMcb2TOWAByMLxk5fJAFAFSWWy+yxXJje7uJZNwuIo1SBZCiGRgxK4OULZBVgVOSvJIBBHfNDpM1nYXNjHYgSNJuZpMR+ZtKAgD5ct1LFyrhlAJC0AX9Dt2HiOOSOe0BMkzyQWjktGgVVVJNzKQAcYXZ8pHGAeAC54msrbVNRWyuTPCpt95lgO7eQSQrKMkkBW2g9dz45HIBha8qXFvE8+l/PuSGOExkuGUsTCGRgFUAgDC5cOuORuABLpNqGsdJVHlhMJV4J/JYHcxJ2knb8v7wg8gPtXbkkqoBe8M6dFFqgvDZvZTTsX+zFVCqBGpLKDkhd0jDg5zgYA3AAGl4g0a5vryGeDZLETELi3k27ZAkgI6qcDDSZ554GD0oAyLbw1qf2O4jWS4jknikjdriYESZwQX2s38RkYY/vEMSBhwAi0HVILaC0KXd19nmZYpJZkCIuNokUbsoQMbeG2ncducUAXdH0vVbbXZbi6877NJPI6oJxtiLBiRtzyhLegYlQSBQB//Z",
+                  "contextInfo": {
+                    "mentionedJid": [
+                      "6289635707538@s.whatsapp.net"
+                    ]
+                  },
+                  "viewOnce": true
+                },
+                "contentText": "\n🌟 *YEYY, QRIS Nya Udah Jadi Nihh!* 🌟\n━━━━━━━━━━━━━━━━━━━━━━\n⌛ *Waktu Selesai QRIS:* 10 Menit\n💰 *Total Yang Di Dapat:* 251\n💸 *Biaya Admin QRIS:* GRATIS\n🆔 *ID Pembayaran Deposit:* DEPOSIT-RBSTORE11\n━━━━━━━━━━━━━━━━━━━━━━\n📜 *Tutorial Dan Langkah - Langkah:*\n1️⃣ Transfers saldo ke QRIS yang bot kirim.\n2️⃣ Tunggu 5–10 detik setelah transfer.\n3️⃣ Bot akan otomatis memproses saldo kamu.\n📌 Jika tidak ada respon, gunakan .report",
+                "footerText": "© 2025 RB Botz",
+                "contextInfo": {
+                  "mentionedJid": [
+                    "6289635707538@s.whatsapp.net"
+                  ]
+                },
+                "buttons": [
+                  {
+                    "buttonId": ".bataldeposit",
+                    "buttonText": {
+                      "displayText": "Cancel Pembayaran Deposit 😖"
+                    },
+                    "type": "RESPONSE"
+                  }
+                ],
+                "headerType": "IMAGE"
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1750702741",
+        "status": "SERVER_ACK"
+      },
+      "chat": "6289635707538@s.whatsapp.net",
+      "idDeposit": "758rtoxk",
+      "amount": "1"
     }
   },
   "6283128411019@s.whatsapp.net": {
