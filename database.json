@@ -6,12 +6,17 @@
     "agama": "kristen",
     "point": 0,
     "saldo": {
-      "amount": 1000,
-      "transaksi": 1,
+      "amount": 2000,
+      "transaksi": 2,
       "riwayat": [
         {
           "tanggal": "23/6/2025",
           "keterangan": "Menambahkan saldo sebesar 1000",
+          "nominal": 1000
+        },
+        {
+          "tanggal": "23/6/2025",
+          "keterangan": "Menambahkan saldo sebesar Rp. 1.000",
           "nominal": 1000
         }
       ]
