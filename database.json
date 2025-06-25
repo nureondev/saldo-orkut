@@ -361,5 +361,18 @@
       "transaksi": 0,
       "riwayat": []
     }
+  },
+  "6287778080034@s.whatsapp.net": {
+    "nomor": "6287778080034@s.whatsapp.net",
+    "nama": "saka",
+    "umur": 14,
+    "gender": "laki",
+    "point": 0,
+    "status": "free",
+    "saldo": {
+      "amount": 0,
+      "transaksi": 0,
+      "riwayat": []
+    }
   }
 }
