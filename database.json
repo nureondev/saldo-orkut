@@ -335,5 +335,18 @@
       "idDeposit": "5lyc6r39",
       "amount": "166"
     }
+  },
+  "6285795020616@s.whatsapp.net": {
+    "nomor": "6285795020616@s.whatsapp.net",
+    "nama": "farrel",
+    "umur": 18,
+    "gender": "cowok",
+    "point": 0,
+    "status": "free",
+    "saldo": {
+      "amount": 0,
+      "transaksi": 0,
+      "riwayat": []
+    }
   }
 }
