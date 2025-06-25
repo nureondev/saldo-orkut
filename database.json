@@ -348,5 +348,18 @@
       "transaksi": 0,
       "riwayat": []
     }
+  },
+  "628812857601@s.whatsapp.net": {
+    "nomor": "628812857601@s.whatsapp.net",
+    "nama": "Rasya",
+    "umur": 12,
+    "gender": "cowok",
+    "point": 0,
+    "status": "free",
+    "saldo": {
+      "amount": 0,
+      "transaksi": 0,
+      "riwayat": []
+    }
   }
 }
