@@ -374,5 +374,17 @@
       "transaksi": 0,
       "riwayat": []
     }
+  },
+  "6285718352814@s.whatsapp.net": {
+    "nomor": "6285718352814@s.whatsapp.net",
+    "nama": "Rapi",
+    "umur": 13,
+    "agama": "Islam",
+    "point": 0,
+    "saldo": {
+      "amount": 0,
+      "transaksi": 0,
+      "riwayat": []
+    }
   }
 }
